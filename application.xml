@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/23.0">
+  <id>OffAir</id>
+  <versionNumber>1.0</versionNumber>
+  <filename>Off Air</filename>
+  <name>Off Air</name>
+  <description>Drown out audible distractions by submerging yourself in consistent, customizable noise.</description>
+  <copyright>2013</copyright>
+  <initialWindow>
+    <title>Off Air</title>
+    <content>OffAir.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>false</maximizable>
+    <resizable>true</resizable>
+    <renderMode>direct</renderMode>
+  </initialWindow>
+  <icon>
+    <image512x512>icons/OffAirIcon512.png</image512x512>
+    <image128x128>icons/OffAirIcon128.png</image128x128>
+    <image72x72>icons/OffAirIcon72.png</image72x72>
+    <image57x57>icons/OffAirIcon57.png</image57x57>
+    <image48x48>icons/OffAirIcon48.png</image48x48>
+    <image36x36>icons/OffAirIcon36.png</image36x36>
+    <image32x32>icons/OffAirIcon32.png</image32x32>
+    <image29x29>icons/OffAirIcon29.png</image29x29>
+    <image16x16>icons/OffAirIcon16.png</image16x16>
+  </icon>
+  <supportedProfiles>desktop extendedDesktop</supportedProfiles>
+</application>
